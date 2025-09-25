@@ -1,5 +1,5 @@
 # PYTHON-GAME
-FLAPPY BIRD GAME USING PYTHON  
+FLAPPY BIRD GAME USING PYTHON  ( MY COLLEGE PROJECT)
 
 This is a simple, self-contained clone of the popular mobile game Flappy Bird, built using Python and the Pygame library. The game simulates the core endless runner mechanics where a bird must navigate through gaps in scrolling pipes by flapping its wings to avoid obstacles. It's designed for beginners to understand game development concepts like event handling, collision detection, physics simulation (gravity), and rendering. The game runs in a window and uses basic shapes (rectangles) for graphics—no external assets like images or sounds are required, making it lightweight and easy to modify.
 
